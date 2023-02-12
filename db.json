@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "text": "Doctor Meeting",
+      "day": "29th Feb,2023",
+      "reminder": false,
+      "status": "active",
+      "id": 1
+    },
+    {
+      "text": "Project 2 Class",
+      "day": "Saturday",
+      "reminder": false,
+      "status": "active",
+      "id": 3
+    },
+    {
+      "text": "Grocery 2",
+      "day": "tuesday",
+      "reminder": false,
+      "status": "active",
+      "id": 5
+    }
+  ]
+}
